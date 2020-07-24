@@ -1,1 +1,2 @@
-jupyter nbextension enable jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user
+jupyter nbextension enable --py widgetsnbextension
